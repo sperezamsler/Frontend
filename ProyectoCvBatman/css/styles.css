@@ -1,18 +1,15 @@
 /* ctrl+kc para comentar en css */
 /* Estilos del header */
-.logo{
+header{
     text-align: center;
     background-color: #E5E5E5;
 }
 /* Estilos main */
-.title-h1{
-    text-align: center;
+h1, h2{
     background-color: #C4C4C4;
     color: #005677;
     font-weight: bold;  
-    font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
-    line-height: 60px;
     letter-spacing: 10px;
 }
 section{
@@ -20,21 +17,36 @@ section{
     width: 70%;
 }
 h2{
-    background-color: #C4C4C4;
-    line-height: 30px;
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    color: #005677;
-    font-weight: bold; 
+    padding-left: 10px;
+}
+h1{
+    font-size: 35px;
+    padding: 10px;
 }
 span{
     font-weight: bold;
+    font-style: italic;
 }
 .divmain{
     align-content: center;
     margin-left: 7%;
     margin-right: 7%;
 }
+footer{
+    background-color: #005677;
+    letter-spacing: 10px;
+}
 .pfooter{
     text-align: center;
+    color: white;
+}
+dd{
+    padding-left: 30px;
+}
+dl{
+    margin-left: 30px;
+}
+.icono-instagram{
+    margin-right: 10px;
 }
