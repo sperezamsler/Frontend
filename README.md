@@ -5,4 +5,4 @@ Proyecto PetShop: https://sperezamsler.github.io/Frontend/ProyectoPetShop
 <br>
 Proyecto Cv Propio: https://sperezamsler.github.io/Frontend/ProyectoCv
 <br>
-Proyecto Cv Propio: https://sperezamsler.github.io/Frontend/ProyectoCvBatman
+Proyecto Cv Batman: https://sperezamsler.github.io/Frontend/ProyectoCvBatman
