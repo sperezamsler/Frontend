@@ -1,0 +1,42 @@
+/* ctrl+kc para comentar en css */
+/* Estilos del header */
+.logo{
+    background-image: url(../img/A1.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}
+/* Estilos main */
+.title-h1{
+    text-align: center;
+    background-color: #C4C4C4;
+
+    color:#120077;
+    font-weight: bold;  
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 60px;
+    letter-spacing: 10px;
+}
+section{
+    margin-left: 15%;
+    width: 70%;
+}
+h2{
+    background-color: #C4C4C4;
+    line-height: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    font-weight: bold; 
+}
+span{
+    font-weight: bold;
+}
+.divmain{
+    align-content: center;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.pfooter{
+    text-align: center;
+}
